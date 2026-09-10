@@ -1,0 +1,2 @@
+# latihan-git
+tugas
